@@ -9,8 +9,19 @@ dependencies:
     specifier: ^0.1.1
     version: 0.1.1
 
+devDependencies:
+  husky:
+    specifier: ^8.0.3
+    version: 8.0.3
+
 packages:
 
   /@type-challenges/utils@0.1.1:
     resolution: {integrity: sha512-A7ljYfBM+FLw+NDyuYvGBJiCEV9c0lPWEAdzfOAkb3JFqfLl0Iv/WhWMMARHiRKlmmiD1g8gz/507yVvHdQUYA==}
     dev: false
+
+  /husky@8.0.3:
+    resolution: {integrity: sha512-+dQSyqPh4x1hlO1swXBiNb2HzTDN1I2IGLQx1GrBuiqFJfoMrnZWwVmatvSiO+Iz8fBUnf+lekwNo4c2LlXItg==}
+    engines: {node: '>=14'}
+    hasBin: true
+    dev: true
