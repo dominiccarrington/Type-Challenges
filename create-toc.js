@@ -22,7 +22,7 @@ for (const folder in folders) {
     const capitalized_name = name
       .split("-")
       .map((str) => str.charAt(0).toUpperCase() + str.slice(1));
-    text += `\n- [${intId}) ${capitalized_name} => ${file}](/dominiccarrington/Type-Challenges/blob/main/${folder}/${file})`;
+    text += `\n- [${intId}) ${capitalized_name} => ${file}](/${folder}/${file})`;
   }
 }
 
