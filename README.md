@@ -25,6 +25,8 @@
 - [3312) Parameters.ts => 03312-parameters.ts](/1-easy/03312-parameters.ts)
 
 ### Medium
+- [2) Return => 00002-return-type.ts](/2-medium/00002-return-type.ts)
+- [3) Omit.ts => 00003-omit.ts](/2-medium/00003-omit.ts)
 
 ### Hard
 
