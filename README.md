@@ -27,6 +27,7 @@
 ### Medium
 - [2) Return => 00002-return-type.ts](/2-medium/00002-return-type.ts)
 - [3) Omit.ts => 00003-omit.ts](/2-medium/00003-omit.ts)
+- [8) Readonly => 00008-readonly-2.ts](/2-medium/00008-readonly-2.ts)
 
 ### Hard
 
