@@ -29,6 +29,10 @@
 - [3) Omit.ts => 00003-omit.ts](/2-medium/00003-omit.ts)
 - [8) Readonly => 00008-readonly-2.ts](/2-medium/00008-readonly-2.ts)
 - [9) Deep => 00009-deep-readonly.ts](/2-medium/00009-deep-readonly.ts)
+- [10) Tuple => 00010-tuple-to-union.ts](/2-medium/00010-tuple-to-union.ts)
+- [12) Chainable => 00012-chainable-options.ts](/2-medium/00012-chainable-options.ts)
+- [15) Last.ts => 00015-last.ts](/2-medium/00015-last.ts)
+- [16) Pop.ts => 00016-pop.ts](/2-medium/00016-pop.ts)
 
 ### Hard
 
