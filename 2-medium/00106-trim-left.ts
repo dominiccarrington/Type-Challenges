@@ -9,14 +9,12 @@ type trimed = TrimLeft<'  Hello World  '> // expected to be 'Hello World  '
 ***/
 
 /* === PROBLEM === */
+type Whitespace = " " | "\n" | "\t";
+
 type TrimLeft<S extends string> = S extends ""
   ? ""
   : S extends `${infer SFirst}${infer SRest}`
-  ? SFirst extends " "
-    ? TrimLeft<SRest>
-    : SFirst extends "\n"
-    ? TrimLeft<SRest>
-    : SFirst extends "\t"
+  ? SFirst extends Whitespace
     ? TrimLeft<SRest>
     : `${SFirst}${SRest}`
   : never;
