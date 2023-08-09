@@ -15,13 +15,14 @@ for (const folder in folders) {
   text += "\n\n### " + folders[folder];
 
   for (const file of files) {
-    const [id, name] = file.split("-", 2);
+    const [id, ...name] = file.split("-");
 
     const intId = parseInt(id);
 
     const capitalized_name = name
-      .split("-")
-      .map((str) => str.charAt(0).toUpperCase() + str.slice(1));
+      .map((str) => str.charAt(0).toUpperCase() + str.slice(1))
+      .map((str) => (str.endsWith(".ts") ? str.slice(0, -3) : str))
+      .join(" ");
     text += `\n- [${intId}) ${capitalized_name} => ${file}](/${folder}/${file})`;
   }
 }
