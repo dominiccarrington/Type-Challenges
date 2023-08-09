@@ -33,6 +33,8 @@
 - [12) Chainable => 00012-chainable-options.ts](/2-medium/00012-chainable-options.ts)
 - [15) Last.ts => 00015-last.ts](/2-medium/00015-last.ts)
 - [16) Pop.ts => 00016-pop.ts](/2-medium/00016-pop.ts)
+- [20) Promise => 00020-promise-all.ts](/2-medium/00020-promise-all.ts)
+- [62) Type => 00062-type-lookup.ts](/2-medium/00062-type-lookup.ts)
 
 ### Hard
 
