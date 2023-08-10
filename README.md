@@ -34,7 +34,6 @@
 - [15) Last => 00015-last.ts](/2-medium/00015-last.ts)
 - [16) Pop => 00016-pop.ts](/2-medium/00016-pop.ts)
 - [20) Promise All => 00020-promise-all.ts](/2-medium/00020-promise-all.ts)
-- [527) Append To Object => 000527-append-to-object.ts](/2-medium/000527-append-to-object.ts)
 - [62) Type Lookup => 00062-type-lookup.ts](/2-medium/00062-type-lookup.ts)
 - [106) Trim Left => 00106-trim-left.ts](/2-medium/00106-trim-left.ts)
 - [108) Trim => 00108-trim.ts](/2-medium/00108-trim.ts)
@@ -42,6 +41,8 @@
 - [191) Append Argument => 00191-append-argument.ts](/2-medium/00191-append-argument.ts)
 - [298) Length Of String => 00298-length-of-string.ts](/2-medium/00298-length-of-string.ts)
 - [459) Flatten => 00459-flatten.ts](/2-medium/00459-flatten.ts)
+- [527) Append To Object => 00527-append-to-object.ts](/2-medium/00527-append-to-object.ts)
+- [531) String To Union => 00531-string-to-union.ts](/2-medium/00531-string-to-union.ts)
 
 ### Hard
 
