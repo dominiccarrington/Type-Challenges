@@ -43,6 +43,7 @@
 - [459) Flatten => 00459-flatten.ts](/2-medium/00459-flatten.ts)
 - [527) Append To Object => 00527-append-to-object.ts](/2-medium/00527-append-to-object.ts)
 - [531) String To Union => 00531-string-to-union.ts](/2-medium/00531-string-to-union.ts)
+- [599) Merge => 00599-merge.ts](/2-medium/00599-merge.ts)
 
 ### Hard
 
