@@ -39,6 +39,7 @@
 - [108) Trim => 00108-trim.ts](/2-medium/00108-trim.ts)
 - [110) Capitalize => 00110-capitalize.ts](/2-medium/00110-capitalize.ts)
 - [191) Append Argument => 00191-append-argument.ts](/2-medium/00191-append-argument.ts)
+- [298) Length Of String => 00298-length-of-string.ts](/2-medium/00298-length-of-string.ts)
 
 ### Hard
 
