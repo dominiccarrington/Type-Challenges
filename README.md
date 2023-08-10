@@ -40,6 +40,7 @@
 - [110) Capitalize => 00110-capitalize.ts](/2-medium/00110-capitalize.ts)
 - [191) Append Argument => 00191-append-argument.ts](/2-medium/00191-append-argument.ts)
 - [298) Length Of String => 00298-length-of-string.ts](/2-medium/00298-length-of-string.ts)
+- [459) Flatten => 00459-flatten.ts](/2-medium/00459-flatten.ts)
 
 ### Hard
 
