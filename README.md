@@ -45,6 +45,7 @@
 - [531) String To Union => 00531-string-to-union.ts](/2-medium/00531-string-to-union.ts)
 - [599) Merge => 00599-merge.ts](/2-medium/00599-merge.ts)
 - [612) Kebabcase => 00612-kebabcase.ts](/2-medium/00612-kebabcase.ts)
+- [645) Diff => 00645-diff.ts](/2-medium/00645-diff.ts)
 
 ### Hard
 
